@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "jdoe@gmail.com",
+      "age": 36
+    },
+    {
+      "id": "2",
+      "name": "Keith Wilson",
+      "email": "keith@gmail.com",
+      "age": 44
+    },
+    {
+      "id": "3",
+      "name": "Link Hero",
+      "email": "tom@gmail.com",
+      "age": 23
+    },
+    {
+      "id": "5",
+      "name": "Jerry Thompson",
+      "email": "jerry@gmail.com",
+      "age": 60
+    },
+    {
+      "name": "Harry Potter",
+      "email": "harry@gmail.com",
+      "age": 32,
+      "id": "ThsHULJ"
+    }
+  ]
+}
